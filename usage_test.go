@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/roark-analytics-go"
-	"github.com/stainless-sdks/roark-analytics-go/internal/testutil"
-	"github.com/stainless-sdks/roark-analytics-go/option"
+	"github.com/roarkhq/sdk-roark-analytics-go"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/testutil"
+	"github.com/roarkhq/sdk-roark-analytics-go/option"
 )
 
 func TestUsage(t *testing.T) {
