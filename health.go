@@ -6,9 +6,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/stainless-sdks/roark-analytics-go/internal/apijson"
-	"github.com/stainless-sdks/roark-analytics-go/internal/requestconfig"
-	"github.com/stainless-sdks/roark-analytics-go/option"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/apijson"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/requestconfig"
+	"github.com/roarkhq/sdk-roark-analytics-go/option"
 )
 
 // HealthService contains methods and other services that help with interacting

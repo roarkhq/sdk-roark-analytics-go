@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/roark-analytics-go
+module github.com/roarkhq/sdk-roark-analytics-go
 
 go 1.21
 
