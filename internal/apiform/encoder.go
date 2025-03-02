@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stainless-sdks/roark-analytics-go/internal/param"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/param"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc
