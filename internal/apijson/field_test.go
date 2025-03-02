@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/roark-analytics-go/internal/param"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/param"
 )
 
 type Struct struct {

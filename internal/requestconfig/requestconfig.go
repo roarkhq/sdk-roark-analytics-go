@@ -17,10 +17,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/roark-analytics-go/internal"
-	"github.com/stainless-sdks/roark-analytics-go/internal/apierror"
-	"github.com/stainless-sdks/roark-analytics-go/internal/apiform"
-	"github.com/stainless-sdks/roark-analytics-go/internal/apiquery"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/apierror"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/apiform"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

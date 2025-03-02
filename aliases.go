@@ -3,7 +3,7 @@
 package roarkanalytics
 
 import (
-	"github.com/stainless-sdks/roark-analytics-go/internal/apierror"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/apierror"
 )
 
 type Error = apierror.Error

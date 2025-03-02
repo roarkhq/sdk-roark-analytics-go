@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/stainless-sdks/roark-analytics-go/internal/requestconfig"
-	"github.com/stainless-sdks/roark-analytics-go/option"
+	"github.com/roarkhq/sdk-roark-analytics-go/internal/requestconfig"
+	"github.com/roarkhq/sdk-roark-analytics-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with
